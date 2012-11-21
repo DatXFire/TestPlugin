@@ -1,0 +1,1 @@
+A basic plugin for bukkitcraft. I hope to fully develope one later, this is currently being used for testing.
